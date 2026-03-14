@@ -1,0 +1,6 @@
+path: D:\666\PyCharm 2023.3.2\pythonProject\dadada\MOT17_yolo
+train: D:\666\PyCharm 2023.3.2\pythonProject\dadada\MOT17_yolo\images\train
+val: D:\666\PyCharm 2023.3.2\pythonProject\dadada\MOT17_yolo\images\val
+
+nc: 1
+names: ['person']
